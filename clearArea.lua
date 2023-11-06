@@ -1,5 +1,5 @@
 -- requires
-local scm = require("scm")
+local scm = require("./scm")
 ---@class turtleController
 local t = scm:load("turtleController")
 
