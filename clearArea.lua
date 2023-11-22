@@ -9,7 +9,7 @@ t.canBeakblocks = true;
 local args = { ... }
 if #args ~= 3 then
     print("Usage: clearArea <height> <length> <width>")
-    print("Starts at the bottom left corner of the area")
+    print("Starts at the bottom right corner of the area")
     return
 end
 local height = tonumber(args[1])
