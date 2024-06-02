@@ -3,7 +3,7 @@ local scm = require("./scm")
 ---@class turtleController
 local t = scm:load("turtleController")
 
-t.canBeakblocks = true;
+t.canBreakBlocks = true;
 
 -- definitions
 local args = { ... }
