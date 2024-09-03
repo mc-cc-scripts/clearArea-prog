@@ -14,7 +14,7 @@ _Writing out the programm without the agruments provides the following instructi
 clearArea <height> <length> <width>
 ```
 
-Starts at the bottom left corner of the area (facing the turtle).
+Starts at the bottom right corner of the area (facing the turtle).
 
 ### Example
 In this example, the turtle would clear the marked 4 x 4 area, starting at the turtles' location.
